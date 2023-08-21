@@ -4,9 +4,8 @@
   <li>
     Giả sử dữ liệu phân tích bao gồm thuộc tính tuổi. Các giá trị tuổi cho các bộ dữ liệu được sắp xếp theo thứ tự tăng dần là 13, 15, 16, 16, 19, 20, 20, 21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35, 35, 35, 35, 36, 40, 45, 46, 52, 70.
     <ol type="a">
-      <li>
-        Tìm <i>trung bình</i>, <i>trung vị</i> của dữ liệu
-      </li>
+      <li>Tìm <i>trung bình</i>, <i>trung vị</i> của dữ liệu</li>
+      <li>Tìm <i>mode</i> của dữ liệu. Nhận xét về tính đa mode của dữ liệu (tức là hai mode, ba mode, v.v.)</li>
     </ol>
   </li>
 </ol>
