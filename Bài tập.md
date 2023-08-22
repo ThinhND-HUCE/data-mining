@@ -14,35 +14,19 @@
 
   <li>(2.3) Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
     <table border="1"; align="center">
-  <tr> <th>age</th> <th>frequency</th></tr>
-  <tr>
-    <td>1-5</td>
-    <td>200</td>
-  </tr>
-  <tr>
-    <td>6-15</td>
-    <td>450</td>
-  </tr>
-  <tr>
-    <td>16-20</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>21-50</td>
-    <td>1500</td>
-  </tr>
-  <tr>
-    <td>51-80</td>
-    <td>700</td>
-  </tr>
-  <tr><td>81-110</td><td>44</td></tr>
+      <tr> <th>age</th> <th>frequency</th> </tr>
+      <tr> <td>1-5</td> <td>200</td> </tr>
+      <tr> <td>6-15</td> <td>450</td> </tr>
+      <tr> <td>16-20</td> <td>300</td> </tr>
+      <tr> <td>21-50</td> <td>1500</td> </tr>
+      <tr> <td>51-80</td> <td>700</td> </tr>
+      <tr><td>81-110</td><td>44</td></tr>
     </table>
     Tính một trung vị xấp xỉ cho dữ liệu
   </li>
 
   <li>(2.7) Giả sử một bệnh viện đã kiểm tra dữ liệu về tuổi và lượng mỡ cơ thể cho 18 người trưởng thành được chọn ngẫu nhiên với kết quả sau
-    <div style="text-align: center;">
-      <table border="1">
+      <table border="1", align="center">
         <tr><th>tuổi</th><td>23</td><td>23</td><td>27</td><td>27</td><td>39</td>
           <td>41</td><td>47</td><td>49</td><td>50</td>
         </tr>
@@ -58,7 +42,6 @@
           <td>34.1</td><td>32.9</td><td>41.2</td><td>35.7</td>
         </tr>
       </table>
-    </div>
     <ol type="a">
       <li>Tính trung bình, trung vị và độ lệch chuẩn của <i>tuổi</i> và <i>%mỡ</i></li>
       <li>Vẽ biểu đồ hộp cho <i>tuổi</i> và <i>%mỡ</i></li>
