@@ -64,10 +64,10 @@
         </tr>
       </table>
     </div>
-    <ol style="a">
+    <ol type="a">
       <li>Tính trung bình, trung vị và độ lệch chuẩn của <i>tuổi</i> và <i>%mỡ</i></li>
-      <li></li>
-      <li></li>
+      <li>Vẽ biểu đồ hộp cho <i>tuổi</i> và <i>%mỡ</i></li>
+      <li>Vẽ <i>biểu đồ phân tán</i> và <i>biểu đồ phân vị kép</i> dựa trên hai biến này</li>
     </ol>
   </li>
 </ol>
