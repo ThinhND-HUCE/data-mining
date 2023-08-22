@@ -55,12 +55,12 @@
           <td>25.9</td><td>27.4</td><td>27.2</td><td>31.2</td>
         </tr>
         <tr>
-          <th>age</th><td></td><td></td><td></td><td></td><td></td>
-          <td></td><td></td><td></td><td></td>
+          <th>age</th><td>52</td><td>54</td><td>54</td><td>56</td><td>57</td>
+          <td>58</td><td>58</td><td>60</td><td>61</td>
         </tr>
         <tr>
-          <th>%fat</th><td></td><td></td><td></td><td></td><td></td>
-          <td></td><td></td><td></td><td></td>
+          <th>%fat</th><td>34.6</td><td>42.5</td><td>28.8</td><td>33.4</td><td>30.2</td>
+          <td>34.1</td><td>32.9</td><td>41.2</td><td>35.7</td>
         </tr>
       </table>
     </div>
