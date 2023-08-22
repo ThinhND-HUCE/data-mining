@@ -79,5 +79,15 @@
       <li>Tính <i>khoảng cách supremum</i> giữa hai đối tượng</li>
     </ol>
   </li>
+
+  <li>(2.11) Việc xác định và lựa chọn các thước đo tính tương đồng trong phân tích dữ liệu là rất quan trọng. Tuy nhiên, nói chung không có thước đo nào có ưu thế hơn hẳn. Kết quả có thể thay đổi tùy theo thước đo được sử dụng. Tuy nhiên, các thước đo tưởng chừng như khác nhau nhưng sau một số phép biến đổi có thể tương đương nhau.
+
+    Giả sử ta có tập dữ liệu 2-D sau
+    <div style="text-align: center;">
+    <table>
+    <tr><th>abc</th></tr>
+    </table>
+    </div>
+  </li>
 </ol>
 
