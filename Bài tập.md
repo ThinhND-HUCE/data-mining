@@ -48,8 +48,8 @@
   <li>Giả sử một bệnh viện đã kiểm tra dữ liệu về tuổi và lượng mỡ cơ thể cho 18 người trưởng thành được chọn ngẫu nhiên với kết quả sau
     <div style="text-align: center;">
       <table border="1">
-        <tr><th>age</th><td>23</td></tr>
-        <tr><th>%fat</th><td>9.5</td></tr>
+        <tr><th>age</th><td>23</td><td>23</td><td>27</td></tr>
+        <tr><th>%fat</th><td>9.5</td><td>26.5</td><td>7.8</td></tr>
       </table>
     </div>
   </li>
