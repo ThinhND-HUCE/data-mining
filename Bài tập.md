@@ -121,9 +121,14 @@
       <li>Chuẩn hóa hai thuộc tính bằng phương pháp chuẩn hóa z</li>
       <li>Tính <i>hệ số tương quan</i> (hệ số Pearson). Hai thuộc tính này có tương quan dương hay âm? Tính hiệp phương sai của chúng</li>
     </ol>
-  <li>(2.20) Giả sử một nhóm gồm 12 bản ghi giá bán đã được sắp xếp như sau: 5,10,11,13,15,35,50,55,72,92,204,215.
-    <div align="center">abc</div>
-    
+  <li>(2.20) Giả sử một nhóm gồm 12 bản ghi giá bán đã được sắp xếp như sau:
+    <div align="center">5, 10, 11, 13, 15, 35, 50, 55, 72, 92, 204, 215</div>
+    Chia chúng thành ba khoảng bằng phương pháp
+    <ol>
+      <li>chia cùng tần số</li>
+      <li>chia cùng độ rộng</li>
+      <li>phân loại</li>
+    </ol>
   </li>
 </ol>
 
