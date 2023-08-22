@@ -13,11 +13,8 @@
   </li>
 
   <li>(2.3) Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
-      <table border="1"; align="center">
-  <tr>
-    <th>age</th>
-    <th>frequency</th>
-  </tr>
+    <table border="1"; align="center">
+  <tr> <th>age</th> <th>frequency</th></tr>
   <tr>
     <td>1-5</td>
     <td>200</td>
@@ -39,7 +36,7 @@
     <td>700</td>
   </tr>
   <tr><td>81-110</td><td>44</td></tr>
-</table>
+    </table>
     Tính một trung vị xấp xỉ cho dữ liệu
   </li>
 
