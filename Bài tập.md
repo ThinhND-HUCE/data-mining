@@ -1,7 +1,7 @@
 # Bài tập
 ## Chương 2. Dữ liệu, đo lường và xử lý dữ liệu
 <ol>
-  <li>Giả sử dữ liệu phân tích bao gồm thuộc tính tuổi. Các giá trị tuổi cho các bộ dữ liệu được sắp xếp theo thứ tự tăng dần là 13, 15, 16, 16, 19, 20, 20, 21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35, 35, 35, 35, 36, 40, 45, 46, 52, 70.
+  <li>(2.2) Giả sử dữ liệu phân tích bao gồm thuộc tính tuổi. Các giá trị tuổi cho các bộ dữ liệu được sắp xếp theo thứ tự tăng dần là 13, 15, 16, 16, 19, 20, 20, 21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35, 35, 35, 35, 36, 40, 45, 46, 52, 70.
     <ol type="a">
       <li>Tìm <i>trung bình</i>, <i>trung vị</i> của dữ liệu</li>
       <li>Tìm <i>mode</i> của dữ liệu. Nhận xét về tính đa mode của dữ liệu (tức là hai mode, ba mode, v.v.)</li>
@@ -12,7 +12,7 @@
     </ol>
   </li>
 
-  <li>Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
+  <li>(2.3) Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
     <div style="text-align: center;">
       <table border="1">
   <tr>
@@ -45,7 +45,7 @@
     Tính một trung vị xấp xỉ cho dữ liệu
   </li>
 
-  <li>Giả sử một bệnh viện đã kiểm tra dữ liệu về tuổi và lượng mỡ cơ thể cho 18 người trưởng thành được chọn ngẫu nhiên với kết quả sau
+  <li>(2.7) Giả sử một bệnh viện đã kiểm tra dữ liệu về tuổi và lượng mỡ cơ thể cho 18 người trưởng thành được chọn ngẫu nhiên với kết quả sau
     <div style="text-align: center;">
       <table border="1">
         <tr><th>tuổi</th><td>23</td><td>23</td><td>27</td><td>27</td><td>39</td>
@@ -68,6 +68,15 @@
       <li>Tính trung bình, trung vị và độ lệch chuẩn của <i>tuổi</i> và <i>%mỡ</i></li>
       <li>Vẽ biểu đồ hộp cho <i>tuổi</i> và <i>%mỡ</i></li>
       <li>Vẽ <i>biểu đồ phân tán</i> và <i>biểu đồ phân vị kép</i> dựa trên hai biến này</li>
+    </ol>
+  </li>
+
+  <li>(2.9) Cho hai đối tượng được biểu diễn bởi các bộ dữ liệu (22, 1, 42, 10) và (20, 0, 36, 8)
+    <ol type="a">
+      <li>Tính <i>khoảng cách Euclide</i> giữa hai đối tượng</li>
+      <li>Tính <i>khoảng cách Manhattan</i> giữa hai đối tượng</li>
+      <li>Tính <i>khoảng cách Minkowski</i> giữa hai đối tượng, với $h=3$</li>
+      <li>Tính <i>khoảng cách supremum</i> giữa hai đối tượng</li>
     </ol>
   </li>
 </ol>
