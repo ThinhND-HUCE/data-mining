@@ -77,5 +77,11 @@
       </li>
     </ol>
   </li>
+
+  <li>(2.14, dữ liệu như bài 2.2) Cho dữ liệu sau (theo thứ tự tăng dần) cho thuộc tính tuổi: 13, 15, 16, 16, 19, 20, 20,21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35 , 35, 35, 35, 36, 40, 45, 46, 52, 70.
+    <div>
+      Sử dụng phương pháp <i>làm mịn bằng các trung bình khoảng</i> để làm mịn những dữ liệu này, sử dụng các khoảng cùng tần số cỡ 3. Minh họa các bước. <i>Nhận xét về tác động của kỹ thuật này đối với dữ liệu đã cho</i>
+    </div>
+  </li>
 </ol>
 
