@@ -8,6 +8,7 @@
       <li>Tìm <i>mode</i> của dữ liệu. Nhận xét về tính đa mode của dữ liệu (tức là hai mode, ba mode, v.v.)</li>
       <li>Tìm <i>trung điểm</i> của dữ liệu</li>
       <li>Tìm (thô) tứ phân vị thứ nhất (Q1) và tứ phân vị thứ ba (Q3) của dữ liệu</li>
+      <li>Cho tóm tắt năm số liệu của dữ liệu</li>
       <li>Vẽ biểu đồ hộp của dữ liệu</li>
     </ol>
   </li>
