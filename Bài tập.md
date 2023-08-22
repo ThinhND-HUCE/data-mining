@@ -12,4 +12,11 @@
       <li>Vẽ biểu đồ hộp của dữ liệu</li>
     </ol>
   </li>
+
+  <li>
+    Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
+    <center>
+      abc
+    </center>
+  </li>
 </ol>
