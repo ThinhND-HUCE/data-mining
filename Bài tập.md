@@ -22,15 +22,32 @@
     <th>frequency</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>Nguyễn Văn A</td>
+    <td>1-5</td>
+    <td>200</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>Trần Thị B</td>
+    <td>6-15</td>
+    <td>450</td>
+  </tr>
+  <tr>
+    <td>16-20</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>21-50</td>
+    <td>1500</td>
+  </tr>
+  <tr>
+    <td>51-80</td>
+    <td>700</td>
+  </tr>
+  <tr>
+    <td>81-110</td>
+    <td>44</td>
   </tr>
 </table>
     </div>
+    Tính một trung vị xấp xỉ cho dữ liệu
   </li>
 </ol>
 
