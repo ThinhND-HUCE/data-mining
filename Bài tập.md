@@ -70,7 +70,12 @@
       <tr> <th>$x_4$</th> <td>1.2</td> <td>1.5</td> </tr>
       <tr> <th>$x_5$</th> <td>1.5</td> <td>1.0</td> </tr>
     </table>
-      
+    <ol type="a">
+      <li>Xem dữ liệu là các điểm dữ liệu hai chiều. Cho điểm dữ liệu mới $x = (1.4, 1.6)$ là một truy vấn, xếp hạng các điểm dữ liệu trong cơ sở dữ liệu dựa trên độ tương đồng với truy vấn theo khoảng cách Euclid, khoảng cách Manhattan, khoảng cách supremum và độ tương đồng cos
+      </li>
+      <li>Chuẩn hóa tập dữ liệu để làm cho chuẩn của mỗi điểm dữ liệu bằng 1. Sử dụng khoảng cách Euclid trên dữ liệu đã biến đổi để xếp hạng các điểm dữ liệu        
+      </li>
+    </ol>
   </li>
 </ol>
 
