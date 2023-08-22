@@ -18,19 +18,16 @@
     <div style="text-align: center;">
       <table border="1">
   <tr>
-    <th>STT</th>
-    <th>Tên</th>
-    <th>Tuổi</th>
+    <th>age</th>
+    <th>frequency</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Nguyễn Văn A</td>
-    <td>25</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Trần Thị B</td>
-    <td>30</td>
   </tr>
 </table>
     </div>
