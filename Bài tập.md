@@ -83,5 +83,16 @@
       Sử dụng phương pháp <i>làm mịn bằng các trung bình khoảng</i> để làm mịn những dữ liệu này, sử dụng các khoảng cùng tần số cỡ 3. Minh họa các bước. <i>Nhận xét về tác động của kỹ thuật này đối với dữ liệu đã cho</i>
     </div>
   </li>
+
+  <li>(2.17) Chuẩn hóa nhóm dữ liệu 200, 300, 400, 600, 1000 bằng phương pháp
+    <ol type="a">
+      <li>chuẩn hóa min-max bằng cách điều chỉnh new_min = 0 và new_max = 1</li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ol>
+    Sử dụng các phương pháp chuẩn hóa (1) , (2) điểm z, (3) điểm z dùng trung bình độ lệch tuyệt đối thay vì độ lệch chuẩn, và (4) thang thập phân để chuẩn hóa nhóm dữ liệu 
+    
+  </li>
 </ol>
 
