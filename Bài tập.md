@@ -15,8 +15,11 @@
 
   <li>
     Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
-    <center>
-      abc
-    </center>
+    <ol type="a">
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
+    
   </li>
 </ol>
