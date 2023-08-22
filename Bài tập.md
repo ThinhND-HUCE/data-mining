@@ -16,7 +16,23 @@
   <li>
     Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
     <div style="text-align: center;">
-      abc
+      <table border="1">
+  <tr>
+    <th>STT</th>
+    <th>Tên</th>
+    <th>Tuổi</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Nguyễn Văn A</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Trần Thị B</td>
+    <td>30</td>
+  </tr>
+</table>
     </div>
   </li>
 </ol>
