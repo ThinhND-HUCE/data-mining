@@ -26,7 +26,7 @@
   </li>
 
   <li>(2.7) Giả sử một bệnh viện đã kiểm tra dữ liệu về tuổi và lượng mỡ cơ thể cho 18 người trưởng thành được chọn ngẫu nhiên với kết quả sau
-      <table border="1", align="center">
+      <table border="1"; align="center">
         <tr><th>tuổi</th><td>23</td><td>23</td><td>27</td><td>27</td><td>39</td>
           <td>41</td><td>47</td><td>49</td><td>50</td>
         </tr>
@@ -61,11 +61,9 @@
   <li>(2.11) Việc xác định và lựa chọn các thước đo tính tương đồng trong phân tích dữ liệu là rất quan trọng. Tuy nhiên, nói chung không có thước đo nào có ưu thế hơn hẳn. Kết quả có thể thay đổi tùy theo thước đo được sử dụng. Tuy nhiên, các thước đo tưởng chừng như khác nhau nhưng sau một số phép biến đổi có thể tương đương nhau.
 
     Giả sử ta có tập dữ liệu 2-D sau
-    <div style="text-align: center;">
-    <table>
+    <table border="1"; align="center">
     <tr><th>abc</th></tr>
     </table>
-    </div>
   </li>
 </ol>
 
