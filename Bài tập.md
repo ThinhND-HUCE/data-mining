@@ -16,7 +16,6 @@
   <li>
     Giả sử các giá trị cho một tập dữ liệu được nhóm thành các khoảng. Các khoảng và tần số tương ứng như sau
     <div style="text-align: center;">
-    
       abc
     </div>
   </li>
