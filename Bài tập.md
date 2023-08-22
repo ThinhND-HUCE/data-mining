@@ -127,7 +127,7 @@
     <ol>
       <li>chia cùng tần số</li>
       <li>chia cùng độ rộng</li>
-      <li>phân loại</li>
+      <li>phân cụm</li>
     </ol>
   </li>
 </ol>
