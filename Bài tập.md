@@ -92,5 +92,14 @@
       <li>chuẩn hóa bằng thang thập phân</li>
     </ol>
   </li>
+
+  <li>(2.18, dữ liệu như bài 2.14) Cho dữ liệu sau (theo thứ tự tăng dần) cho thuộc tính tuổi: 13, 15, 16, 16, 19, 20, 20,21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35 , 35, 35, 35, 36, 40, 45, 46, 52, 70.
+    <ol type="a">
+      <li>Sử dụng phương pháp chuẩn hóa min-max để biến đổi giá trị 35 của thuộc tính <i>tuổi</i> vào khoảng [0.0, 1.0]</li>
+      <li>"Sử dụng phương pháp chuẩn hóa z để biến đổi giá trị 35 của thuộc tính tuổi, trong đó độ lệch chuẩn của <i>tuổi</i> là 12.70 năm</li>
+      <li>"Sử dụng phương pháp chuẩn hóa bằng thang thập phân để biến đổi giá trị 35 cho thuộc tính <i>tuổi</i></li>
+      <li>Nhận xét về phương pháp bạn sẽ ưu tiên sử dụng cho dữ liệu đã cho, đưa ra lý do tại sao bạn lựa chọn phương pháp đó</li>
+    </ol>
+  </li>
 </ol>
 
