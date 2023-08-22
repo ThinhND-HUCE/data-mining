@@ -64,7 +64,11 @@
     </div>
     <table border="1"; align="center">
       <tr> <th></th> <th>$A_1$</th> <th>$A_2$</th> </tr>
-      <tr> <th>$x_1$</th> </tr>
+      <tr> <th>$x_1$</th> <td>1.5</td> <td>1.7</td> </tr>
+      <tr> <th>$x_2$</th> <td>2</td> <td>1.9</td> </tr>
+      <tr> <th>$x_3$</th> <td>1.6</td> <td>1.8</td> </tr>
+      <tr> <th>$x_4$</th> <td>1.2</td> <td>1.5</td> </tr>
+      <tr> <th>$x_5$</th> <td>1.5</td> <td>1.0</td> </tr>
     </table>
       
   </li>
