@@ -96,10 +96,33 @@
   <li>(2.18, dữ liệu như bài 2.14) Cho dữ liệu sau (theo thứ tự tăng dần) cho thuộc tính tuổi: 13, 15, 16, 16, 19, 20, 20,21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35 , 35, 35, 35, 36, 40, 45, 46, 52, 70.
     <ol type="a">
       <li>Sử dụng phương pháp chuẩn hóa min-max để biến đổi giá trị 35 của thuộc tính <i>tuổi</i> vào khoảng [0.0, 1.0]</li>
-      <li>"Sử dụng phương pháp chuẩn hóa z để biến đổi giá trị 35 của thuộc tính tuổi, trong đó độ lệch chuẩn của <i>tuổi</i> là 12.70 năm</li>
-      <li>"Sử dụng phương pháp chuẩn hóa bằng thang thập phân để biến đổi giá trị 35 cho thuộc tính <i>tuổi</i></li>
-      <li>Nhận xét về phương pháp bạn sẽ ưu tiên sử dụng cho dữ liệu đã cho, đưa ra lý do tại sao bạn lựa chọn phương pháp đó</li>
+      <li>Sử dụng phương pháp chuẩn hóa z để biến đổi giá trị 35 của thuộc tính tuổi, trong đó độ lệch chuẩn của <i>tuổi</i> là 12.70 năm</li>
+      <li>Sử dụng phương pháp chuẩn hóa bằng thang thập phân để biến đổi giá trị 35 cho thuộc tính <i>tuổi</i></li>
+      <li><i>Nhận xét về phương pháp bạn sẽ ưu tiên sử dụng cho dữ liệu đã cho, đưa ra lý do tại sao bạn lựa chọn phương pháp đó</i></li>
     </ol>
+  </li>(2.19, dữ liệu như bài 2.7) Giả sử một bệnh viện đã kiểm tra dữ liệu về tuổi và lượng mỡ cơ thể cho 18 người trưởng thành được chọn ngẫu nhiên với kết quả sau
+    <table border="1"; align="center">
+      <tr> <th>tuổi</th> <td>23</td> <td>23</td> <td>27</td> <td>27</td> <td>39</td>
+        <td>41</td> <td>47</td> <td>49</td> <td>50</td>
+      </tr>
+      <tr><th>%mỡ</th> <td>9.5</td> <td>26.5</td> <td>7.8</td> <td>17.8</td> <td>31.4</td>
+        <td>25.9</td> <td>27.4</td> <td>27.2</td> <td>31.2</td>
+      </tr>
+      <tr>
+        <th>tuổi</th><td>52</td> <td>54</td> <td>54</td> <td>56</td> <td>57</td>
+        <td>58</td> <td>58</td> <td>60</td> <td>61</td>
+      </tr>
+      <tr>
+        <th>%mỡ</th> <td>34.6</td> <td>42.5</td> <td>28.8</td> <td>33.4</td> <td>30.2</td>
+        <td>34.1</td> <td>32.9</td> <td>41.2</td> <td>35.7</td>
+      </tr>
+    </table>
+    <ol type="a">
+      <li>Chuẩn hóa hai thuộc tính bằng phương pháp chuẩn hóa z</li>
+      <li>Tính <i>hệ số tương quan</i> (hệ số Pearson). Hai thuộc tính này có tương quan dương hay âm? Tính hiệp phương sai của chúng</li>
+    </ol>
+  <li>
+    
   </li>
 </ol>
 
