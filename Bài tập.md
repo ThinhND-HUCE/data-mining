@@ -86,7 +86,7 @@
 
   <li>(2.17) Chuẩn hóa nhóm dữ liệu 200, 300, 400, 600, 1000 bằng phương pháp
     <ol type="a">
-      <li>chuẩn hóa min-max bằng cách điều chỉnh new_min = 0 và new_max = 1</li>
+      <li>chuẩn hóa min-max bằng cách điều chỉnh $new\_min = 0$ và $new\_max = 1$</li>
       <li></li>
       <li></li>
       <li></li>
