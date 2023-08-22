@@ -26,22 +26,22 @@
   </li>
 
   <li>(2.7) Giả sử một bệnh viện đã kiểm tra dữ liệu về tuổi và lượng mỡ cơ thể cho 18 người trưởng thành được chọn ngẫu nhiên với kết quả sau
-      <table border="1"; align="center">
-        <tr><th>tuổi</th><td>23</td><td>23</td><td>27</td><td>27</td><td>39</td>
-          <td>41</td><td>47</td><td>49</td><td>50</td>
-        </tr>
-        <tr><th>%mỡ</th><td>9.5</td><td>26.5</td><td>7.8</td><td>17.8</td><td>31.4</td>
-          <td>25.9</td><td>27.4</td><td>27.2</td><td>31.2</td>
-        </tr>
-        <tr>
-          <th>tuổi</th><td>52</td><td>54</td><td>54</td><td>56</td><td>57</td>
-          <td>58</td><td>58</td><td>60</td><td>61</td>
-        </tr>
-        <tr>
-          <th>%mỡ</th><td>34.6</td><td>42.5</td><td>28.8</td><td>33.4</td><td>30.2</td>
-          <td>34.1</td><td>32.9</td><td>41.2</td><td>35.7</td>
-        </tr>
-      </table>
+    <table border="1"; align="center">
+      <tr> <th>tuổi</th> <td>23</td> <td>23</td> <td>27</td> <td>27</td> <td>39</td>
+        <td>41</td> <td>47</td> <td>49</td> <td>50</td>
+      </tr>
+      <tr><th>%mỡ</th> <td>9.5</td> <td>26.5</td> <td>7.8</td> <td>17.8</td> <td>31.4</td>
+        <td>25.9</td> <td>27.4</td> <td>27.2</td> <td>31.2</td>
+      </tr>
+      <tr>
+        <th>tuổi</th><td>52</td> <td>54</td> <td>54</td> <td>56</td> <td>57</td>
+        <td>58</td> <td>58</td> <td>60</td> <td>61</td>
+      </tr>
+      <tr>
+        <th>%mỡ</th> <td>34.6</td> <td>42.5</td> <td>28.8</td> <td>33.4</td> <td>30.2</td>
+        <td>34.1</td> <td>32.9</td> <td>41.2</td> <td>35.7</td>
+      </tr>
+    </table>
     <ol type="a">
       <li>Tính trung bình, trung vị và độ lệch chuẩn của <i>tuổi</i> và <i>%mỡ</i></li>
       <li>Vẽ biểu đồ hộp cho <i>tuổi</i> và <i>%mỡ</i></li>
