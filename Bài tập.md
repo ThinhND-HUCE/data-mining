@@ -130,5 +130,13 @@
       <li><i>phân cụm</i></li>
     </ol>
   </li>
+
+  <li>(2.22, dữ liệu như bài 2.14) Cho dữ liệu sau (theo thứ tự tăng dần) cho thuộc tính tuổi: 13, 15, 16, 16, 19, 20, 20,21, 22, 22, 25, 25, 25, 25, 30, 33, 33, 35 , 35, 35, 35, 36, 40, 45, 46, 52, 70.
+  <ol type="a">
+    <li>Vẽ biểu đồ tần suất với độ rộng bằng nhau là 10</li>
+    <li><i>Ví dụ minh họa cho từng phương pháp lấy mẫu sau: SRSWOR, SRSWR, lấy mẫu theo cụm, lấy mẫu theo lớp. Sử dụng mẫu cỡ 5 và các lớp "thanh niên", "trung niên" và "người cao tuổi"</i></li>
+  </ol>
+    
+  </li>
 </ol>
 
