@@ -145,7 +145,16 @@
   <li>(4.6) Một cơ sở dữ liệu có 5 giao dịch. Cho $min\_sup = 60\%$ và $min\_conf = 80\%$
     <table border="1"; align="center">
       <tr><th>TID</th> <th>Mặt hàng</th></tr>
-      <tr><td></td> <td></td></tr>
+      <tr><td>T100</td> <td>{M, O, N, K, E, Y}</td></tr>
+      <tr><td>T200</td> <td>{D, O, N, K, E, Y}</td></tr>
+      <tr><td>T300</td> <td>{M, A, K, E}</td></tr>
+      <tr><td>T400</td> <td>{M, U, C, K, Y}</td></tr>
+      <tr><td>T500</td> <td>{C, O, O, K, I, E}</td></tr>
     </table>
+    <ol>
+      <li>Tìm tất cả các tập mục phổ biến theo phương pháp các Apriori và FP-Growth. So sánh hiệu suất của hai quá trình khai thác dữ liệu này</li>
+      <li>Liệt kê tất cả các quy tắc liên hệ <i>mạnh</i> (với giá $s$ và độ tin cậy $c$) phù hợp với lượng từ phổ dụng sau đây, trong đó $X$ là biến đại diện cho khách hàng, và $item_i$ đề cập đến các biến đại diện cho các mặt hàng (ví dụ: "A", "B", "C"):</li>
+      <div align="center">$\forall x \in transaction,\;buys(X,ite{m_1})\; \wedge \;buys(X,ite{m_2})\; \Rightarrow \;buys(X,ite{m_3})\quad [s,c]$</div>
+    </ol>
   </li>
 </ol>
