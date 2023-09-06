@@ -140,3 +140,12 @@
   </li>
 </ol>
 
+## Chương 4. Khám phá mẫu: khái niệm cơ bản và phương pháp
+<ol>
+  <li>(4.6) Một cơ sở dữ liệu có 5 giao dịch. Cho $min\_sup = 60\%$ và $min\_conf = 80\%$
+    <table border="1"; align="center">
+      <tr><th>TID</th> <th>Mặt hàng</th></tr>
+      <tr><td></td> <td></td></tr>
+    </table>
+  </li>
+</ol>
