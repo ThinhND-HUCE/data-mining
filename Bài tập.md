@@ -154,7 +154,18 @@
     <ol>
       <li>Tìm tất cả các tập mục phổ biến theo phương pháp các Apriori và FP-Growth. So sánh hiệu suất của hai quá trình khai thác dữ liệu này</li>
       <li>Liệt kê tất cả các quy tắc liên hệ <i>mạnh</i> (với giá $s$ và độ tin cậy $c$) phù hợp với lượng từ phổ dụng sau đây, trong đó $X$ là biến đại diện cho khách hàng, và $item_i$ đề cập đến các biến đại diện cho các mặt hàng (ví dụ: "A", "B", "C"):</li>
-      <div align="center">$\forall x \in transaction,\;buys(X,ite{m_1})\; \wedge \;buys(X,ite{m_2})\; \Rightarrow \;buys(X,ite{m_3})\quad [s,c]$</div>
+      <div align="center">$\forall X \in transaction,\;buys(X,ite{m_1})\; \wedge \;buys(X,ite{m_2})\; \Rightarrow \;buys(X,ite{m_3})\quad [s,c]$</div>
     </ol>
+  </li>
+
+  <li>(4.8) Một cơ sở dữ liệu có 4 giao dịch. Cho $min\_sup = 60\%$ và $min\_conf = 80\%$
+    <table border="1"; align="center">
+      <tr><th>cust_ID</th> <th>TID</th> <th>Mặt hàng (dưới dạng thương hiệu-danh mục sản phẩm)</th></tr>
+      <tr><td>01</td> <td>T100</td> <td>{King’s-Crab, Sunset-Milk, Dairyland-Cheese, Best-Bread}</td></tr>
+      <tr><td>02</td> <td>T200</td> <td>{Best-Cheese, Dairyland-Milk, Goldenfarm-Apple, Tasty-Pie, Wonder-Bread}</td></tr>
+      <tr><td>03</td> <td>T300</td> <td>{Westcoast-Apple, Dairyland-Milk, Wonder-Bread, Tasty-Pie}</td></tr>
+      <tr><td>04</td> <td>T400</td> <td>{Wonder-Bread, Sunset-Milk, Dairyland-Cheese}</td></tr>
+    </table>
+    
   </li>
 </ol>
