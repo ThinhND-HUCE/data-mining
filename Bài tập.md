@@ -173,7 +173,7 @@
       </li>
       <li>Theo mức độ chi tiết của <i>brand-item_category</i> (ví dụ: $item_i$ có thể là "<i>Sunset-Milk</i>"), với mẫu quy tắc
         <div align="center">$\forall X \in customer,\;buys(X,ite{m_1})\; \wedge \;buys(X,ite{m_2})\; \Rightarrow \;buys(X,ite{m_3})$</div>
-        liệt kê tập $k$-mục phổ biến với $k$ lớn nhất
+        liệt kê tập $k$-mục phổ biến với $k$ lớn nhất (không cần ghi ra các quy tắc)
       </li>
     </ol>
   </li>
