@@ -153,7 +153,7 @@
     </table>
     <ol>
       <li>Tìm tất cả các tập mục phổ biến theo phương pháp các Apriori và <i>FP-Growth</i>. <i>So sánh hiệu suất của hai quá trình khai thác dữ liệu này</i></li>
-      <li>Liệt kê tất cả các luật kết hợp <i>mạnh</i> (với giá $s$ và độ tin cậy $c$) phù hợp với lượng từ phổ dụng sau đây, trong đó $X$ là biến đại diện cho khách hàng, và $item_i$ đề cập đến các biến đại diện cho các mặt hàng (ví dụ: "A", "B", "C"):</li>
+      <li>Liệt kê tất cả các luật kết hợp <i>mạnh</i> (với giá $s$ và độ tin cậy $c$) phù hợp với lượng từ phổ dụng sau đây, trong đó $X$ là biến đại diện cho khách hàng, và $item_i$ đề cập đến các biến đại diện cho các mặt hàng (ví dụ: "A", "B", v.v.):</li>
       <div align="center">$\forall X \in transaction,\;buys(X,ite{m_1})\; \wedge \;buys(X,ite{m_2})\; \Rightarrow \;buys(X,ite{m_3})\quad [s,c]$</div>
     </ol>
   </li>
