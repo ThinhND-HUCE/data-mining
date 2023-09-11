@@ -1,2 +1,2 @@
 # Khai phá dữ liệu
-**Cập nhật ngày 21/8: bài tập chương 2**
+**Cập nhật ngày 12/9: ví dụ, bài tập chương 4**
