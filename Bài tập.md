@@ -163,9 +163,18 @@
       <tr><th>cust_ID</th> <th>TID</th> <th>Mặt hàng (dưới dạng thương hiệu-danh mục sản phẩm)</th></tr>
       <tr><td>01</td> <td>T100</td> <td>{King’s-Crab, Sunset-Milk, Dairyland-Cheese, Best-Bread}</td></tr>
       <tr><td>02</td> <td>T200</td> <td>{Best-Cheese, Dairyland-Milk, Goldenfarm-Apple, Tasty-Pie, Wonder-Bread}</td></tr>
-      <tr><td>03</td> <td>T300</td> <td>{Westcoast-Apple, Dairyland-Milk, Wonder-Bread, Tasty-Pie}</td></tr>
+      <tr><td>01</td> <td>T300</td> <td>{Westcoast-Apple, Dairyland-Milk, Wonder-Bread, Tasty-Pie}</td></tr>
       <tr><td>04</td> <td>T400</td> <td>{Wonder-Bread, Sunset-Milk, Dairyland-Cheese}</td></tr>
     </table>
-    
+    <ol>
+      <li>Theo mức độ chi tiết của <i>item_category</i> (ví dụ: $item_i$ có thể là "<i>Milk</i>"), với mẫu quy tắc
+        <div align="center">$\forall X \in transaction,\;buys(X,ite{m_1})\; \wedge \;buys(X,ite{m_2})\; \Rightarrow \;buys(X,ite{m_3})\quad [s,c]$</div>
+        liệt kê tập $k$-mục phổ biến với $k$ lớn nhất, và <i>tất cả</i> các quy tắc kết hợp <i>mạnh</i> (với giá $s$ và độ tin cậy $c$ của chúng) chứa tập $k$-mục phổ biến với $k$ lớn nhất.
+      </li>
+      <li>Theo mức độ chi tiết của <i>brand-item_category</i> (ví dụ: $item_i$ có thể là "<i>Sunset-Milk</i>"), với mẫu quy tắc
+        <div align="center">$\forall X \in customer,\;buys(X,ite{m_1})\; \wedge \;buys(X,ite{m_2})\; \Rightarrow \;buys(X,ite{m_3})$</div>
+        liệt kê tập $k$-mục phổ biến với $k$ lớn nhất
+      </li>
+    </ol>
   </li>
 </ol>
