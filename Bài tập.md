@@ -177,4 +177,16 @@
       </li>
     </ol>
   </li>
+
+  <li>(4.14) Bảng tiếp liên sau tổng hợp dữ liệu giao dịch tại siêu thị, trong đó $hot dogs$ chỉ các giao dịch chứa xúc xích, $\overline{hot dogs}$ chỉ các giao dịch không chứa xúc xích, $hamburgers$ chỉ các giao dịch chứa hamburger, và $\overline{hamburgers}$ chỉ các giao dịch không chứa hamburger.
+    <table border="1"; align="center">
+      <tr> <th></th> <th>$hot dogs$</th> <th>$hot dogs$</th> </tr>
+      <tr> <td>1-5</td> <td>200</td> </tr>
+      <tr> <td>6-15</td> <td>450</td> </tr>
+      <tr> <td>16-20</td> <td>300</td> </tr>
+      <tr> <td>21-50</td> <td>1500</td> </tr>
+      <tr> <td>51-80</td> <td>700</td> </tr>
+      <tr><td>81-110</td><td>44</td></tr>
+    </table>
+  </li>
 </ol>
