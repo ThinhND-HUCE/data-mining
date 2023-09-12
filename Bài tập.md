@@ -178,11 +178,16 @@
     </ol>
   </li>
 
-  <li>(4.14) Bảng tiếp liên sau tổng hợp dữ liệu giao dịch tại siêu thị, trong đó $hot dogs$ chỉ các giao dịch chứa xúc xích, $\overline{hot dogs}$ chỉ các giao dịch không chứa xúc xích, $hamburgers$ chỉ các giao dịch chứa hamburger, và $\overline{hamburgers}$ chỉ các giao dịch không chứa hamburger.
+  <li>(4.14) Bảng tiếp liên sau tổng hợp dữ liệu giao dịch tại siêu thị, trong đó $hot\; dogs$ chỉ các giao dịch chứa xúc xích, $\overline{hot\; dogs}$ chỉ các giao dịch không chứa xúc xích, $hamburgers$ chỉ các giao dịch chứa hamburger, và $\overline{hamburgers}$ chỉ các giao dịch không chứa hamburger.
     <table border="1"; align="center">
-      <tr> <th></th> <th>$hot dogs$</th> <th>$\overline{hot dogs}$</th> </tr>
+      <tr> <th></th> <th>$hot\; dogs$</th> <th>$\overline{hot\; dogs}$</th> </tr>
       <tr> <th>$hamburgers$</th> <td>2000</td> <td>500</td> </tr>
       <tr> <th>$\overline{hamburgers}$</th> <td>1000</td> <td>1500</td> </tr>
     </table>
+    <ol>
+      <li>Giả sử phát hiện được luật kết hợp $hot dogs \Rightarrow hamburgers$. Với ngưỡng giá tối thiểu 25% và ngưỡng tin cậy tối thiểu 50%, luật kết hợp này có mạnh không?</li>
+      <li>Dựa trên dữ liệu trên, việc mua xúc xích có độc lập với việc mua hamburger không? Nếu không, có mối quan hệ <i>tương quan</i> nào giữa hai sự kiện này?</li>
+      <li><i>So sánh việc sử dụng các chỉ số <i>all_confidence</i>, <i>max_confidence</i>, <i>Kulczynski</i> và <i>cosine</i> với chỉ số <i>lift</i> và <i>tương quan</i> trên dữ liệu đã cho</i></li>
+    </ol>
   </li>
 </ol>
