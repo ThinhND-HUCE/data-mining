@@ -164,7 +164,7 @@
       <tr><td>01</td> <td>T100</td> <td>{King’s-Crab, Sunset-Milk, Dairyland-Cheese, Best-Bread}</td></tr>
       <tr><td>02</td> <td>T200</td> <td>{Best-Cheese, Dairyland-Milk, Goldenfarm-Apple, Tasty-Pie, Wonder-Bread}</td></tr>
       <tr><td>01</td> <td>T300</td> <td>{Westcoast-Apple, Dairyland-Milk, Wonder-Bread, Tasty-Pie}</td></tr>
-      <tr><td>04</td> <td>T400</td> <td>{Wonder-Bread, Sunset-Milk, Dairyland-Cheese}</td></tr>
+      <tr><td>03</td> <td>T400</td> <td>{Wonder-Bread, Sunset-Milk, Dairyland-Cheese}</td></tr>
     </table>
     <ol>
       <li>Theo mức độ chi tiết của <i>item_category</i> (ví dụ: $item_i$ có thể là "<i>Milk</i>"), với mẫu quy tắc
