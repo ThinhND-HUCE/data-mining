@@ -1,0 +1,5 @@
+﻿cust_ID,TID,items_bought (in the form of brand-item_category)
+1,T100,"King’s-Crab, Sunset-Milk, Dairyland-Cheese, Best-Bread"
+2,T200,"Best-Cheese, Dairyland-Milk, Goldenfarm-Apple, Tasty-Pie, Wonder-Bread"
+1,T300,"Westcoast-Apple, Dairyland-Milk, Wonder-Bread, Tasty-Pie"
+3,T400,"Wonder-Bread, Sunset-Milk, Dairyland-Cheese"
