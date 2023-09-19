@@ -209,7 +209,7 @@
       <tr> <td>10</td> <td>senior</td> <td>medium</td> <td>yes</td> <td>fair</td> <td>yes</td> </tr>
       <tr> <td>11</td> <td>youth</td> <td>medium</td> <td>yes</td> <td>excellent</td> <td>yes</td> </tr>
       <tr> <td>12</td> <td>middle_aged</td> <td>medium</td> <td>no</td> <td>excellent</td> <td>yes</td> </tr>
-      <tr> <td>13</td> <td>middle_aged</td> <td><high/td> <td>yes</td> <td>fair</td> <td>yes</td> </tr>
+      <tr> <td>13</td> <td>middle_aged</td> <td>high</td> <td>yes</td> <td>fair</td> <td>yes</td> </tr>
       <tr> <td>14</td> <td>senior</td> <td>medium</td> <td>no</td> <td>excellent</td> <td>no</td> </tr>
     </table>
 
