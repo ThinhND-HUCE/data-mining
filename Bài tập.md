@@ -191,3 +191,86 @@
     </ol>
   </li>
 </ol>
+
+## Chương 6. Phân loại: khái niệm cơ bản và phương pháp
+<ol>
+  <li>(Ví dụ 6.1) Từ các bộ dữ liệu huấn luyện được gán nhãn lớp từ cơ sở dữ liệu khách hàng của một cửa hàng điện tử, xây dựng cây quyết định
+    <table border="1"; align="center">
+      <tr> <th>RID</th> <th>age</th> <th>income</th> <th>student</th> <th>credit_rating</th> <th>Class: buys_computer</th> </tr>
+      <tr> <td>youth</td> <td>high</td> <td>no</td> <td>fair</td> <td>no</td> </tr>
+      <tr> <td>2</td> <td>youth</td> <td>high</td> <td>no</td> <td>excellent</td> <td>no</td> </tr>
+      <tr> <td>3</td> <td>middle_aged</td> <td>high</td> <td>no</td> <td>fair</td> <td>yes</td> </tr>
+      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+    </table>
+    4
+senior
+medium
+no
+fair
+yes
+5
+senior
+low
+yes
+fair
+yes
+6
+senior
+low
+yes
+excellent
+no
+7
+middle_aged
+low
+yes
+excellent
+yes
+8
+youth
+medium
+no
+fair
+no
+9
+youth
+low
+yes
+fair
+yes
+10
+senior
+medium
+yes
+fair
+yes
+11
+youth
+medium
+yes
+excellent
+yes
+12
+middle_aged
+medium
+no
+excellent
+yes
+13
+middle_aged
+high
+yes
+fair
+yes
+14
+senior
+medium
+no
+excellent
+no
+
+  </li>
+</ol>
