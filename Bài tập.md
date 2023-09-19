@@ -200,77 +200,18 @@
       <tr> <td>youth</td> <td>high</td> <td>no</td> <td>fair</td> <td>no</td> </tr>
       <tr> <td>2</td> <td>youth</td> <td>high</td> <td>no</td> <td>excellent</td> <td>no</td> </tr>
       <tr> <td>3</td> <td>middle_aged</td> <td>high</td> <td>no</td> <td>fair</td> <td>yes</td> </tr>
-      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      <tr> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      <tr> <td>4</td> <td>senior</td> <td>medium</td> <td>no</td> <td>fair</td> <td>yes</td> </tr>
+      <tr> <td>5</td> <td>senior</td> <td>low</td> <td>yes</td> <td>fair</td> <td>yes</td> </tr>
+      <tr> <td>6</td> <td>senior</td> <td>low</td> <td>yes</td> <td>excellent</td> <td>no</td> </tr>
+      <tr> <td>7</td> <td>middle_aged</td> <td>low</td> <td>yes</td> <td>excellent</td> <td>yes</td> </tr>
+      <tr> <td>8</td> <td>youth</td> <td>medium</td> <td>no</td> <td>fair</td> <td>no</td> </tr>
+      <tr> <td>9</td> <td>youth</td> <td>low</td> <td>yes</td> <td>fair</td> <td>yes</td> </tr>
+      <tr> <td>10</td> <td>senior</td> <td>medium</td> <td>yes</td> <td>fair</td> <td>yes</td> </tr>
+      <tr> <td>11</td> <td>youth</td> <td>medium</td> <td>yes</td> <td>excellent</td> <td>yes</td> </tr>
+      <tr> <td>12</td> <td>middle_aged</td> <td>medium</td> <td>no</td> <td>excellent</td> <td>yes</td> </tr>
+      <tr> <td>13</td> <td>middle_aged</td> <td><high/td> <td>yes</td> <td>fair</td> <td>yes</td> </tr>
+      <tr> <td>14</td> <td>senior</td> <td>medium</td> <td>no</td> <td>excellent</td> <td>no</td> </tr>
     </table>
-    4
-senior
-medium
-no
-fair
-yes
-5
-senior
-low
-yes
-fair
-yes
-6
-senior
-low
-yes
-excellent
-no
-7
-middle_aged
-low
-yes
-excellent
-yes
-8
-youth
-medium
-no
-fair
-no
-9
-youth
-low
-yes
-fair
-yes
-10
-senior
-medium
-yes
-fair
-yes
-11
-youth
-medium
-yes
-excellent
-yes
-12
-middle_aged
-medium
-no
-excellent
-yes
-13
-middle_aged
-high
-yes
-fair
-yes
-14
-senior
-medium
-no
-excellent
-no
 
   </li>
 </ol>
