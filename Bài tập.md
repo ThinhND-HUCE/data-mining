@@ -214,4 +214,21 @@
     </table>
 
   </li>
+
+  <li>(6.7) Bảng sau chứa dữ liệu huấn luyện từ cơ sở dữ liệu nhân viên. Dữ liệu đã được tổng quát hóa. Ví dụ, "31...35" của <i>age</i> đại diện cho khoảng độ tuổi từ 31 đến 35. Đối với mỗi dòng dữ liệu, <it>count</it> chỉ số bộ dữ liệu có các giá trị của <i>department</i> (phòng ban), <i>status</i> (tình trạng), <i>age</i> (độ tuổi), và <i>salary</i> (lương) được cho dòng đó.
+    <table border="1"; align="center">
+      <tr> <th>department</th> <th>status</th> <th>age</th> <th>salary</th> <th>count</th> </tr>
+      <tr> <td>sales</td> <td>senior</td> <td>31...35</td> <td>46K...50K</td> <td>30</td> </tr>
+      <tr> <td>sales</td> <td>junior</td> <td>26...30</td> <td>26K...30K</td> <td>40</td> </tr>
+      <tr> <td>sales</td> <td>junior</td> <td>31...35</td> <td>31K...35K</td> <td>40</td> </tr>
+      <tr> <td>systems</td> <td>junior</td> <td>21...25</td> <td>46K...50K</td> <td>20</td> </tr>
+      <tr> <td>systems</td> <td>senior</td> <td>31...35</td> <td>66K...70K</td> <td>5</td> </tr>
+      <tr> <td>systems</td> <td>junior</td> <td>26...30</td> <td>46K...50K</td> <td>3</td> </tr>
+      <tr> <td>systems</td> <td>senior</td> <td>41...45</td> <td>66K...70K/td> <td>3</td> </tr>
+      <tr> <td>marketing</td> <td>senior</td> <td>36...40/td> <td>46K...50K</td> <td>10</td> </tr>
+      <tr> <td>marketing</td> <td>junior</td> <td>31...35</td> <td>41K...45K</td> <td>4</td> </tr>
+      <tr> <td>secretary</td> <td>senior</td> <td>46...50</td> <td>36K...40K</td> <td>4</td> </tr>
+      <tr> <td>secretary</td> <td>junior</td> <td>26...30</td> <td>26K...30K</td> <td>6</td> </tr>
+    </table>
+  </li>
 </ol>
