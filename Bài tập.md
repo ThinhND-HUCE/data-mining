@@ -194,7 +194,7 @@
 
 ## Chương 6. Phân loại: khái niệm cơ bản và phương pháp
 <ol>
-  <li>(Ví dụ 6.1) Từ các bộ dữ liệu huấn luyện được gán nhãn lớp từ cơ sở dữ liệu khách hàng của một cửa hàng điện tử, xây dựng cây quyết định cho thuộc tính <i>buys_computer</i>
+  <li>(Ví dụ 6.1) Từ các bộ dữ liệu huấn luyện được gán nhãn lớp từ cơ sở dữ liệu khách hàng của một cửa hàng điện tử, sử dụng khuếch đại thông tin, xây dựng cây quyết định cho thuộc tính <i>buys_computer</i>
     <table border="1"; align="center">
       <tr> <th>RID</th> <th>age</th> <th>income</th> <th>student</th> <th>credit_rating</th> <th>Class: buys_computer</th> </tr>
       <tr> <td>1</td> <td>youth</td> <td>high</td> <td>no</td> <td>fair</td> <td>no</td> </tr>
