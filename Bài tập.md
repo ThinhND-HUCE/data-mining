@@ -225,7 +225,7 @@
       <tr> <td>systems</td> <td>senior</td> <td>31...35</td> <td>66K...70K</td> <td>5</td> </tr>
       <tr> <td>systems</td> <td>junior</td> <td>26...30</td> <td>46K...50K</td> <td>3</td> </tr>
       <tr> <td>systems</td> <td>senior</td> <td>41...45</td> <td>66K...70K/td> <td>3</td> </tr>
-      <tr> <td>marketing</td> <td>senior</td> <td>36...40/td> <td>46K...50K</td> <td>10</td> </tr>
+      <tr> <td>marketing</td> <td>senior</td> <td>36...40</td> <td>46K...50K</td> <td>10</td> </tr>
       <tr> <td>marketing</td> <td>junior</td> <td>31...35</td> <td>41K...45K</td> <td>4</td> </tr>
       <tr> <td>secretary</td> <td>senior</td> <td>46...50</td> <td>36K...40K</td> <td>4</td> </tr>
       <tr> <td>secretary</td> <td>junior</td> <td>26...30</td> <td>26K...30K</td> <td>6</td> </tr>
