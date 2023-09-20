@@ -234,7 +234,6 @@
     <ol>
       <li>Xây dựng cây quyết định từ dữ liệu đã cho</li>
       <li>Với bộ dữ liệu có giá trị "<i>systems</i>", "<i>26...30</i>", và "<i>46–50K</i>" của các thuộc tính tương ứng <i>department</i>, <i>age</i>, và <i>salary</i>, phân loại naïve Bayes của <i>status</i> cho bộ dữ liệu này là gì?</li>
-      <li></li>
     </ol>
   </li>
 </ol>
