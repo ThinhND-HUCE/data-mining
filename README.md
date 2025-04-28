@@ -1,4 +1,5 @@
 # Thông báo
+  * **Nghỉ** buổi học ngày 24/4 tiết 1
 ## Bài kiểm tra số 1 (thứ 2 ngày 14/4)
   + Câu 1: Trực quan hóa dữ liệu (Python, mục 2.2.4)
   + Câu 2: Đo độ khác biệt giữa các đối tượng đa thuộc tính (tính tay + Python, mục 2.3, khoảng 5 thuộc tính danh định, 5 thuộc tính nhị phân đối xứng, 5 thuộc tính nhị phân bất đối xứng, 5 thuộc tính thứ tự, 5 thuộc tính số)
